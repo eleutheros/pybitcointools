@@ -1,5 +1,5 @@
 # Pybitcointools, Python library for Bitcoin signatures and transactions
-
+#### Note: I am moving from python to Racket Scheme, and I need to take this library with me. That is what this fork is about!
 ### Advantages:
 
 * Functions have a simple interface, inputting and outputting in standard formats
